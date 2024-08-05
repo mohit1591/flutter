@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\agora_rtc_engine-6.3.2\android\.cxx\Debug\3q3p4q6f\armeabi-v7a'
+[1/1] Linking CXX shared library C:\FlutterApp\Chat\Chat-Messenger\build\agora_rtc_engine\intermediates\cxx\Debug\3q3p4q6f\obj\armeabi-v7a\libiris_rendering_android.so

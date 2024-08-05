@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Admin\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.1.1\\src\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Admin\\AppData\\Local\\Android\\sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Admin\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.1.1\\android\\.cxx\\Debug\\5k2r146d\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Admin\\AppData\\Local\\Android\\sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Admin\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\iris_method_channel-2.1.1\\android\\.cxx\\Debug\\5k2r146d\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "iris_method_channel::@6890427a1f51a3e7e1df": {
+      "artifactName": "iris_method_channel",
+      "abi": "x86_64",
+      "output": "C:\\FlutterApp\\Chat\\Chat-Messenger\\build\\iris_method_channel\\intermediates\\cxx\\Debug\\5k2r146d\\obj\\x86_64\\libiris_method_channel.so",
+      "runtimeFiles": []
+    }
+  }
+}

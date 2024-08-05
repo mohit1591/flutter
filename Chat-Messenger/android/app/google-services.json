@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "475784329571",
+    "firebase_url": "https://iinnside-940b2-default-rtdb.firebaseio.com",
+    "project_id": "iinnside-940b2",
+    "storage_bucket": "iinnside-940b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475784329571:android:bd7cf80f19645b34767b56",
+        "android_client_info": {
+          "package_name": "com.iinnside.messanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475784329571-4tuscaios6001g0m4i0678d93b6gc1nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsy4QN_1Kc4yDpcN8UswWfG-GGX3pq-1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475784329571-4tuscaios6001g0m4i0678d93b6gc1nn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "475784329571-918ra2ciurtfc4o25880vgn5e4qovuhr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.company.appname"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
